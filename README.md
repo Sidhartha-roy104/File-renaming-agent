@@ -124,6 +124,12 @@ All actions are logged to the console.
 
 ---
 
+## Architecture & Data Flow
+
+A full Data Flow Diagram (Level 0 context diagram and Level 1 detailed DFD) for both `agent.py` and `meta_analysis.py` is available in **[DFD.md](DFD.md)**.
+
+---
+
 ## Design Principles
 
 - **Local-first**: No cloud APIs, no external data sharing
